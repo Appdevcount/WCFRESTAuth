@@ -10,7 +10,7 @@ namespace WCFREST
 {
     // NOTE: You can use the "Rename" command/cmd on the "Refactor" menu to change the interface name "IService1" in both code and config file together.
     [ServiceContract]
-    public interface ITESTService
+    public interface ITESTService 
     {  
 
         [OperationContract]
